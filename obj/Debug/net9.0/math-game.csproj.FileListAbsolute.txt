@@ -1,0 +1,15 @@
+c:\Users\Van\Downloads\C#\CsharpProjects\math-game\bin\Debug\net9.0\math-game.exe
+C:\Users\Van\Downloads\C#\CsharpProjects\math-game\bin\Debug\net9.0\math-game.deps.json
+C:\Users\Van\Downloads\C#\CsharpProjects\math-game\bin\Debug\net9.0\math-game.runtimeconfig.json
+c:\Users\Van\Downloads\C#\CsharpProjects\math-game\bin\Debug\net9.0\math-game.dll
+c:\Users\Van\Downloads\C#\CsharpProjects\math-game\bin\Debug\net9.0\math-game.pdb
+c:\Users\Van\Downloads\C#\CsharpProjects\math-game\obj\Debug\net9.0\math-game.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Van\Downloads\C#\CsharpProjects\math-game\obj\Debug\net9.0\math-game.AssemblyInfoInputs.cache
+c:\Users\Van\Downloads\C#\CsharpProjects\math-game\obj\Debug\net9.0\math-game.AssemblyInfo.cs
+c:\Users\Van\Downloads\C#\CsharpProjects\math-game\obj\Debug\net9.0\math-game.csproj.CoreCompileInputs.cache
+c:\Users\Van\Downloads\C#\CsharpProjects\math-game\obj\Debug\net9.0\math-game.sourcelink.json
+c:\Users\Van\Downloads\C#\CsharpProjects\math-game\obj\Debug\net9.0\math-game.dll
+c:\Users\Van\Downloads\C#\CsharpProjects\math-game\obj\Debug\net9.0\refint\math-game.dll
+c:\Users\Van\Downloads\C#\CsharpProjects\math-game\obj\Debug\net9.0\math-game.pdb
+C:\Users\Van\Downloads\C#\CsharpProjects\math-game\obj\Debug\net9.0\math-game.genruntimeconfig.cache
+C:\Users\Van\Downloads\C#\CsharpProjects\math-game\obj\Debug\net9.0\ref\math-game.dll
